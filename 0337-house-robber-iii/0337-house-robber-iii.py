@@ -10,13 +10,13 @@ class Solution:
             if not node:
                 return(0,0)
 
-            left=dfs(node.left)
-            right=dfs(node.right)
+            l_rob,l_not=dfs(node.left)
+            r_rob,r_not=dfs(node.right)
 
-            rob=node.val+left[1]+right[1]
-            notrob=max(left)+max(right)
+            rob=node.val+l_not+r_not
+            not_rob=max(l_rob,l_not)+max(r_rob,r_not)
 
-            return(rob,notrob)
+            return(rob,not_rob)
 
-        result=dfs(root)
-        return max(result)
+        rob,not_rob=dfs(root)
+        return max(rob,not_rob)
