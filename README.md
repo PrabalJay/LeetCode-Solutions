@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
