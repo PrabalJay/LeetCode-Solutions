@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## String Matching
