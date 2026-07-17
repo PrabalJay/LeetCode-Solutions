@@ -45,17 +45,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0337-house-robber-iii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## String
 |  |
