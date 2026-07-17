@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0337-house-robber-iii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## Tree
 |  |
 | ------- |
