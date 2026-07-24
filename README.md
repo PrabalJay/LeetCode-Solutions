@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0062-unique-paths](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## Tree
