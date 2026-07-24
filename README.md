@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
