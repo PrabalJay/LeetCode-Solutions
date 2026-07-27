@@ -123,10 +123,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0062-unique-paths](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0415-add-strings](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [2928-distribute-candies-among-children-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [2928-distribute-candies-among-children-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
 ## Linked List
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2928-distribute-candies-among-children-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
