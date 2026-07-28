@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2928-distribute-candies-among-children-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
