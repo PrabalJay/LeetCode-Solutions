@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0454-4sum-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0454-4sum-ii) |
+| [0518-coin-change-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
+| [0518-coin-change-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## Tree
 |  |
@@ -180,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
