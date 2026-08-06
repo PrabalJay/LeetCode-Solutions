@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0337-house-robber-iii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0337-house-robber-iii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0415-add-strings](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [2928-distribute-candies-among-children-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
 ## Combinatorics
@@ -198,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
