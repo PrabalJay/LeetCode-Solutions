@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0454-4sum-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0454-4sum-ii) |
+| [0474-ones-and-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
+| [0474-ones-and-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## Tree
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0474-ones-and-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -185,9 +188,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Knapsack Problem
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
