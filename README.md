@@ -211,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
