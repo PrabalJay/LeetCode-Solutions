@@ -2,7 +2,8 @@ class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         memo={}
         l,r,max_length=0,0,0
-        while r<len(s):
+        n=len(s)
+        while r<n:
             ch=s[r]
             if ch in memo and memo[ch]>=l:
                 l=memo[ch]+1
