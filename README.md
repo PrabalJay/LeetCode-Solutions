@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0079-word-search) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0454-4sum-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0454-4sum-ii) |
