@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0454-4sum-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
