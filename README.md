@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [0474-ones-and-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Two Pointers
@@ -197,11 +199,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
 |  |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
@@ -257,4 +262,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
