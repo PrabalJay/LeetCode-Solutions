@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0930-binary-subarrays-with-sum](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0454-4sum-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Two Pointers
 |  |
@@ -146,10 +148,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Matrix
 |  |
 | ------- |
