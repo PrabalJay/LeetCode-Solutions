@@ -236,11 +236,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
