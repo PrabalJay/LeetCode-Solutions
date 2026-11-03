@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0474-ones-and-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1143-longest-common-subsequence](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## Tree
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0474-ones-and-zeroes](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1143-longest-common-subsequence](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/PrabalJay/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
